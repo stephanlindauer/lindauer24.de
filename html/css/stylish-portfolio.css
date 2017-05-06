@@ -248,3 +248,11 @@ footer {
   bottom: 5px;
   right: 5px;
 }
+
+/*stephan:*/
+h1 {
+   text-shadow: 0 0 10px white;
+}
+h3 {
+   text-shadow: 0 0 10px white;
+}
